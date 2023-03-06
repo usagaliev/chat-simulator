@@ -1,0 +1,13 @@
+.chat {
+    background: white;
+    margin: 10px;
+    max-width: 350px;
+}
+
+.conversation {
+    display: flex;
+    flex-direction: column-reverse;
+    overflow-y: scroll;
+    height: 80vh;
+    margin-bottom: 10px;
+}
